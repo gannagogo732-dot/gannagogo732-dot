@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 - 🔭 I'm a **Computer & Control Systems Engineering Student** at **Benha University**.
-- 💻 Passionate about **C/C++** and **Software Engineering**.
+- 💻 Passionate about **C++** and **Software Engineering**.
 - 🛠️ Currently learning and building systems programming & algorithms projects.
 - ⚡ Fun fact: I love solving complex engineering problems and building structured code!
 
